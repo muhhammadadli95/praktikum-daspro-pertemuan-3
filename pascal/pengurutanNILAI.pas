@@ -40,7 +40,7 @@ begin
 
     ///hasil
     writeln('==============================================================================');
-    writeln('nilai yang anda input setelah di urutkan adalah: ',nilai1,',',nilai2,',',nilai3);
+    writeln('nilai yang anda input setelah di urutkan adalah: ',nilai3,',',nilai2,',',nilai1);
     writeln('==============================================================================');
     
     ///bonus
